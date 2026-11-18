@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.out
+*.pid
+.venv/
+venv/
+ryu310-venv/
+ryu-venv/
+.env
+worker.py.backup

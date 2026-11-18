@@ -1,0 +1,7 @@
+# Recommended only for Ubuntu 22.04 / Python 3.10.
+# Install setuptools first as shown in README.md, then install Ryu.
+setuptools==57.5.0
+wheel
+ryu==4.34
+eventlet==0.33.3
+dnspython==2.6.1
